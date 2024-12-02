@@ -20,13 +20,13 @@ public class Soal_3 {
 
         
 
-        // for(int i = 0; i < matrik.length; i++) {
-        //     for(int j = 0; j < matrik[i].length; j++) {
-        //         System.out.print("Masukkan elemen [" + i + "][" + j + "]: ");
-        //         matrik[i][j] = input.nextInt();
-        //     }
-        //     System.out.println();
-        // }
+        for(int i = 0; i < matrik.length; i++) {
+            for(int j = 0; j < matrik[i].length; j++) {
+                System.out.print("Masukkan elemen [" + i + "][" + j + "]: ");
+                matrik[i][j] = input.nextInt();
+            }
+            System.out.println();
+        }
 
         for(int i = 0; i < matrik.length; i++) {
             for(int j = 0; j < matrik[i].length; j++) {
