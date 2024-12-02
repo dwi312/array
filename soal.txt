@@ -1,0 +1,67 @@
+1. Soal Perhitungan Sederhana
+    Buatlah program Java untuk:
+    - Membuat array integer berukuran 10
+    - Input nilai dari keyboard
+    - Hitung dan tampilkan:
+    * Total seluruh nilai
+    * Rata-rata nilai
+    * Nilai tertinggi
+    * Nilai terendah
+
+2. Soal Manipulasi Array
+    Buat program yang:
+    - Menerima input 5 nama mahasiswa
+    - Urutkan nama secara alfabetis
+    - Tampilkan nama yang diurutkan
+    - Cari posisi nama tertentu
+
+3. Soal Matriks
+    Buat program untuk:
+    - Membuat matriks 4x4
+    - Input nilai matriks dari keyboard
+    - Hitung:
+    * Jumlah seluruh elemen
+    * Jumlah diagonal utama
+    * Jumlah diagonal samping
+
+4. Soal Pengolahan Nilai
+    Buat program untuk manajemen nilai siswa:
+    - Input nama dan nilai untuk 5 siswa
+    - Tampilkan:
+    * Daftar nama dan nilai
+    * Rata-rata kelas
+    * Siswa dengan nilai tertinggi
+    * Siswa dengan nilai terendah
+
+5. Soal Pencarian dan Filtering
+    Buat program untuk:
+    - Membuat array bilangan bulat
+    - Lakukan operasi:
+    * Cari bilangan genap
+    * Cari bilangan prima
+    * Urutkan bilangan dari terkecil ke terbesar
+    * Hapus duplikat
+
+6. Soal Matriks Transformasi
+    Buat program yang:
+    - Menerima matriks 3x3
+    - Lakukan operasi:
+    * Transpose matriks
+    * Hitung determinan
+    * Kalikan dengan matriks identitas
+
+7. Soal Game Sederhana: Tebak Angka
+    Buat game tebak angka dengan:
+    - Gunakan array untuk menyimpan riwayat tebakan
+    - Acak angka rahasia
+    - Beri petunjuk (terlalu tinggi/rendah)
+    - Batasi maksimal 5 percobaan
+    - Tampilkan riwayat tebakan
+
+8. Soal Enkripsi Sederhana
+    Buat program enkripsi:
+    - Terima input teks
+    - Ubah setiap karakter menjadi kode ASCII
+    - Simpan dalam array
+    - Lakukan pergeseran/substitusi
+    - Dekripsi kembali
